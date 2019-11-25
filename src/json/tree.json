@@ -1,0 +1,52 @@
+[
+    {
+      "path": "/index/1",
+      "tabname": "学员管理",
+      "userGroup": ["0","1","2"],
+      "icon": "el-icon-location",
+      "tab": [
+        { "path": "/index/Student", "text": "学员列表" },
+        { "path": "/index/StudentAdd", "text": "新增学员" }
+      ]
+    },  
+    {
+      "path": "/index/2",
+      "tabname": "职员管理",
+      "userGroup": ["0"],
+      "icon": "el-icon-location",
+      "tab": [
+        { "path": "/index/Staff", "text": "职员信息" },
+        { "path": "/index/StaffAdd", "text": "新增职员" }
+      ]
+    },
+    {
+      "path": "/index/3",
+      "tabname": "设备管理",
+      "userGroup": ["0","1"],
+      "icon": "el-icon-location",
+      "tab": [
+        { "path": "/index/Facility", "text": "设备清单" },
+        { "path": "/index/AddFacility", "text": "新增采购" }
+      ]
+    },
+    {
+      "path": "/index/4",
+      "tabname": "资金管理",
+      "userGroup": ["0"],
+      "icon": "el-icon-location",
+      "tab": [
+        { "path": "/index/Capital", "text": "基本收支" },
+        { "path": "/index/Addcapital", "text": "新增款项" }
+      ]
+    },
+    {
+      "path": "/index/5",
+      "tabname": "系统管理",
+      "userGroup": ["0"],
+      "icon": "el-icon-location",
+      "tab": [
+        { "path": "/index/System", "text": "管理员账户" },
+        { "path": "/index/AddSystem", "text": "新增管理员" }
+      ]
+    }
+  ]

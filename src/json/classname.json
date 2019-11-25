@@ -1,0 +1,38 @@
+[
+    {
+      "index": 1,
+      "classname": "一年级"
+    },
+    {
+      "index": 2,
+      "classname": "二年级"
+    },
+    {
+      "index": 3,
+      "classname": "三年级"
+    },
+    {
+      "index": 4,
+      "classname": "四年级"
+    },
+    {
+      "index": 5,
+      "classname": "五年级"
+    },
+    {
+      "index": 6,
+      "classname": "六年级"
+    },
+    {
+      "index": 7,
+      "classname": "初一"
+    },
+    {
+      "index": 8,
+      "classname": "初二"
+    },
+    {
+      "index": 9,
+      "classname": "初三"
+    }
+  ]
